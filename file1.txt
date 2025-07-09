@@ -1,0 +1,8 @@
+create dir structure : mkdir dir1 
+basic command : file creation: touch file1
+ls: listing
+cd : for enter in particular dir
+mkdir : making dir
+r mdir : delete empty dir
+rm -r : delere dir with content
+rm -rf : force delete without asking for conformation 
